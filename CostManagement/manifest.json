@@ -17,8 +17,17 @@
 
   "options_page" : "options/options.html",
 
+  "background": {
+
+    "scripts":["assets/js/eventPage.js"],
+    "persistent":false
+
+  },
+
   "permissions":[
-    "storage"
+    "storage",
+    "notifications",
+    "contextMenus"
   ]
 
 
