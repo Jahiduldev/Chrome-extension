@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Costing Management",
+  "description": "A Costing Management crome extension developed by Jahidul islam for practice perposes",
+  "version": "1.0",
+  "icons": {
+    "128": "assets/images/sarahma.png",
+    "48": "assets/images/sarahma.png",
+    "16": "assets/images/sarahma.png"
+  },
+
+  "browser_action": {
+    "default_icon": "assets/images/sarahma.png",
+    "default_popup": "index.html"
+  }
+}
