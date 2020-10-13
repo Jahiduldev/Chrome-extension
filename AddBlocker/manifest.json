@@ -1,0 +1,21 @@
+{
+    "name": "Jahiduldev Adblocker",
+
+    "version": "1.0",
+
+    "description": "Jahiduldev Adblocker",
+
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+
+    "background": {
+        "scripts": ["assets/js/addblocker.js"]
+    },
+
+    "icons": {
+        "16": "assets/images/jahidul.png",
+        "48": "assets/images/jahidul.png",
+        "128": "assets/images/jahidul.png"
+    },
+    
+    "manifest_version": 2
+}
